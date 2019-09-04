@@ -1,0 +1,1530 @@
+programatically-hide-show-android-soft-keyboard
+==================================
+1)http://stackoverflow.com/questions/7200281/programatically-hide-show-android-soft-keyboard/7200308#7200308
+
+
+https://github.com/koconder/android-market-api-php
+
+google map-rout_between_two
+============================
+1)http://saravananandroid.blogspot.in/2015/01/android-draw-route-map-between-two.html
+
+how to add jar file in android studio
+=================
+1)https://abhiandroid.com/androidstudio/import-add-external-jar-files-android-studio.html
+
+geofence
+===================
+1)http://saravananandroid.blogspot.in/2016/03/android-geofencing-with-google-maps.html
+2)https://code.tutsplus.com/tutorials/how-to-work-with-geofences-on-android--cms-26639
+
+try {
+    File dir = Environment.getExternalStorageDirectory();
+    File file = new File(dir, "test.jks");
+
+    if (file.exists()) {
+        System.out.println(file.getAbsolutePath());
+        System.setProperty("javax.net.ssl.trustStore", file.getAbsolutePath());
+        System.setProperty("javax.net.ssl.trustStorePassword", "myPassword");
+        System.out.println(System.getProperty("javax.net.ssl.trustStore"));
+
+        Document document = Jsoup.connect("https://www.dhbw-loerrach.de/").get();
+        lblMessage.setText(document.html());
+    }
+} catch (Exception ex) {
+    System.out.println(ex.getMessage());
+}
+=================================
+http://stackoverflow.com/questions/7744075/how-to-connect-via-https-using-jsoup
+http://stackoverflow.com/questions/16058067/jsoup-https-connecting?rq=1
+
+buble transactions
+====================
+1)http://guides.codepath.com/android/shared-element-activity-transition
+
+
+possible way
+==================
+1)http://stackoverflow.com/questions/34309564/how-to-get-app-market-version-information-from-google-play-store
+2)http://stackoverflow.com/questions/25201349/programmatically-check-play-store-for-app-updates
+
+
+upload image, videos,audio to server
+===========================================
+1)http://www.androidhive.info/2014/12/android-uploading-camera-image-video-to-server-with-progress-bar/
+
+screen share
+==============
+1)https://github.com/OddCN/screen-share-to-browser
+
+
+
+
+
+post https
+==============
+1)http://www.coderefer.com/android-upload-file-to-server/
+
+screen size
+==============
+1)http://www.emirweb.com/ScreenDeviceStatistics.php
+
+chat with gcm
+===================================
+1)http://www.androidhive.info/2016/02/android-push-notifications-using-gcm-php-mysql-realtime-chat-app-part-2/
+
+volley
+======================
+1)http://www.androidhive.info/2014/05/android-working-with-volley-library-1/
+
+save image usinfg picasso
+=====================
+1)http://www.opensourcealternative.org/android-picasso-save-image-tutorial/
+2)https://github.com/square/picasso/issues/1139
+
+Upload file with Multipart Request Volley Android
+=========================================
+https://gist.github.com/anggadarkprince/a7c536da091f4b26bb4abf2f92926594
+
+
+image compression library in android
+
+
+upload image with progress
+=========================
+http://androstock.com/tutorials/create-a-file-uploader-with-progress-in-android-android-studio.html
+
+Logcat printing
+================
+1)http://www.helloandroid.com/tutorials/reading-logs-programatically
+
+chat code integration
+======================
+1)https://quickblox.com/developers/Android_XMPP_Chat_Sample#Chat_BOSH_integration
+2)https://quickblox.com/developers/Android
+3)https://quickblox.com/plans/
+4)https://github.com/QuickBlox/quickblox-android-sdk/tree/master/sample-content
+
+file chooser
+===============
+1)https://android-arsenal.com/details/1/5381
+
+image serch
+================
+1)http://www.flaticon.com/
+
+flowchart
+==============
+1)https://www.draw.io/
+
+inspect mobile
+============
+1)chrome://inspect/#devices
+
+serch menu
+=============
+1)http://www.theappguruz.com/blog/android-working-android-actionbar
+
+painless thread
+=====================
+1)https://android-developers.googleblog.com/2009/05/painless-threading.html
+
+icons
+====================
+1)https://materialdesignicons.com/
+2)https://www.materialpalette.com/icons
+3)http://zavoloklom.github.io/material-design-iconic-font/icons.html
+4)https://materialdesignicons.com/
+5)https://material.io/icons/#ic_person
+6)http://www.iconsdb.com/custom-color/time-13-icon.html
+
+ui
+==============
+1)https://www.template.net/design-templates/ui-ux/ui-mobile-designs-elements-kits/
+2)https://www.template.net/design-templates/apps/best-android-app-ui-designs/
+
+homeTheotre
+=============
+1)http://www.shopclues.com/envent-deejay-701-bt-51-bluetooth-home-audio-speaker-with-30w-rms.html?&mcid=dsp&utm_source=google&utm_medium=cpc&utm_campaign=display-dynamic-remarketing-wired-c2&gclid=COSrv763_dICFU6VaAodyFkJDg
+
+html video player
+================
+1)http://bashooka.com/coding/html5-video-audio-players/
+
+internet httpsurl handling
+===========================
+1)http://codereview.stackexchange.com/questions/45819/httpurlconnection-response-code-handling
+
+attractive ui
+================
+1)https://in.pinterest.com/fireantstudio/cool-ui-and-ux/
+2)https://in.pinterest.com/pin/692639617660233924/
+3)https://in.pinterest.com/pin/700872760729239712/
+4)https://www.behance.net/gallery/50383193/Transit-Tracker-Concept
+
+mac
+==========
+1)http://www.ebay.in/itm/291991030619?aff_source=Sok-Goog
+2)http://bangalore.quikr.com/Escrow/Apple-MacBook-Pro-Quad-Core-i7-Retina-HD-15.4-inch-16GB-256GB-SSD-W0QQAdIdZ289638357?utm_source=google&utm_medium=cpc&utm_campaign=Et_All_AGN_SN_N_PL_NT-PLA-AllIndia-Nationwide&gclid=CIiqucKCntMCFcGhaAodr6cC7Q&ef_id=WHnHLQAAAJBhiUVT%3A20170412035355%3As
+
+notepad
+===============
+1)https://github.com/johncallahan/notepad
+
+MAIL integration-a small library to send a email in background withou user interaction
+===============
+1)https://github.com/yesidlazaro/GmailBackground
+2)https://github.com/aosp-mirror/platform_packages_apps_email
+
+tab layout
+===========
+1)https://www.simplifiedcoding.net/android-tablayout-example-using-viewpager-fragments/
+2)http://www.androidhive.info/2015/09/android-material-design-working-with-tabs/
+
+libPhoneNumber
+==============
+1)http://stackoverflow.com/questions/16809508/extract-code-country-from-phone-number-libphonenumber
+
+download 
+===========================
+1)http://stackoverflow.com/questions/3028306/download-a-file-with-android-and-showing-the-progress-in-a-progressdialog
+
+2)https://github.com/voghDev/PdfViewPager
+
+macbook all
+=========
+1)http://www.everymac.com/ultimate-mac-lookup/?search_keywords=A1398
+
+activity open transition in buble shape
+=============================
+1)https://github.com/codepath/android_guides/wiki/Shared-Element-Activity-Transition
+
+android page  curl effect animation
+===============
+1)https://github.com/moritz-wundke/android-page-curl
+
+Search view
+==================
+1)https://github.com/lapism/SearchView
+
+fab transformation -animation
+========================
+1)https://github.com/konifar/fab-transformation
+
+Bottom menu navigation
+==============
+1)https://github.com/sephiroth74/Material-BottomNavigation
+2)https://github.com/armcha/LuseenBottomNavigation
+3)https://github.com/Nightonke/BoomMenu
+4)https://github.com/michaldrabik/TapBarMenu
+menu 
+==================
+progreesbar 
+=====================
+1)https://github.com/d-max/spots-dialog
+
+navigation tabBr- Awesome
+------------------
+1)https://github.com/Devlight/NavigationTabBar
+2)https://github.com/melvinjlobo/MetaballMenu
+
+awesome 
+==============
+1)https://github.com/amitshekhariitbhu/awesome-android-1
+
+dash bord
+=================
+1)https://colorlib.com/polygon/gentelella/media_gallery.html
+
+how to find nearest restorant google api
+=======================================
+1)http://stackoverflow.com/questions/11957409/activity-has-leaked-window-com-android-internal-policy-impl-phonewindowdecorvie
+
+Gcm -google
+===========
+1)https://console.developers.google.com/project
+
+crash report library for myjio,viber etc..
+=======================
+1)https://github.com/ACRA/acra
+
+fcm and gcm
+=============
+1)http://www.androidhive.info/2012/10/android-push-notifications-using-google-cloud-messaging-gcm-php-and-mysql/
+2)https://www.intertech.com/Blog/push-notifications-tutorial-for-android-using-google-cloud-messaging-gcm/
+3)https://demo.androidhive.info/firebase/notifications/
+
+demo fcm
+=============
+1:https://demo.androidhive.info/firebase/notifications/
+
+fcm simple sample with video
+===============
+1)https://www.youtube.com/watch?v=FmPp-JKtRmU
+
+notification buble like facebook messanger
+========================
+1)https://www.simplifiedcoding.net/notification-bubbles-for-android/ 
+
+snackbar
+===============
+1)http://www.androidhive.info/2015/09/android-material-design-snackbar-example/
+
+background internet check using service
+========================
+1)http://www.androidhive.info/2012/07/android-detect-internet-connection-status/
+2)http://stackoverflow.com/questions/22310691/checking-internet-connection-with-service-on-android
+3)https://www.sufficientlysecure.org/2012/05/24/service-daily.html
+
+Transfer existing Android app to another developer account?
+================================================
+1)https://stackoverflow.com/questions/16432408/transfer-existing-android-app-to-another-developer-account
+
+webview speed improve with android js handler
+=====================
+1)http://www.cuelogic.com/blog/simple-android-java-javascript-bridge/
+
+create a weather app using volly
+===============================
+1)https://inducesmile.com/android/create-a-beautiful-android-weather-app-using-openweathermap-api-and-volley-library/
+
+namaz api
+===============
+1)https://aladhan.com/prayer-times-api#endpointTimings
+quran api
+===============
+1)https://alquran.cloud/
+
+Showing nearby places using Google Places API and Google Map Android API V2 [newr by mazjid]
+====================
+1)http://wptrafficanalyzer.in/blog/showing-nearby-places-using-google-places-api-and-google-map-android-api-v2/
+
+how to drow two points using google api
+--------------------------
+1)https://inducesmile.com/android/android-how-to-draw-path-between-2-points-on-google-map/
+
+search any data from arraylist object 
+==========================
+
+ArrayList<FolderModel> list=new ArrayLiast<>();
+
+1)https://stackoverflow.com/questions/12496038/searching-in-a-arraylist-with-custom-objects-for-certain-strings
+
+google docs viewr
+==============
+1)https://gist.github.com/izazueta/4961650
+
+document viewer html
+===================
+1)https://www.labnol.org/internet/google-docs-viewer-alternative/
+2)https://gist.github.com/izazueta/4961650
+
+runtime permission
+================
+1)http://www.truiton.com/2016/04/obtaining-runtime-permissions-android-marshmallow-6-0/
+2)https://inthecheesefactory.com/blog/things-you-need-to-know-about-android-m-permission-developer-edition/en
+ 
+webview rwndering finish
+====================
+1)https://stackoverflow.com/questions/31460316/android-webview-rendering-finished
+
+fetch data from server usin recyclerView
+=======================
+1)http://androidcss.com/android/fetch-json-data-android/
+2)
+auto complete fetch data from server
+===================
+1)http://androidcss.com/android/android-autocomplete-search-suggestions/
+
+how to transfer application in to another account
+=============================
+1)https://stackoverflow.com/questions/16561707/is-it-possible-to-change-account-owner-on-google-play-developers-console
+2)http://phandroid.com/2012/06/21/getting-acquired-how-to-transfer-ownership-of-your-android-app-or-game/
+3)https://www.youtube.com/watch?v=byqsh_Y6yLo
+
+notepad[carf view like olx list]
+=======================
+1)https://github.com/MohMah/android-notepad
+
+rich text
+===================
+1)https://github.com/akshaydugar/RichTextEditor
+
+sms gatway using http
+======================
+1)https://dzone.com/articles/java-sms-example-%E2%80%93-how-send
+
+
+meterial disighn for file app
+==============================
+1)https://material.uplabs.com/posts/map-directions
+
+meterial palet
+=================
+1)https://www.materialpalette.com/
+
+more than params sent to server using lists
+==========================
+1)https://stackoverflow.com/questions/9767952/how-to-add-parameters-to-httpurlconnection-using-post
+
+https://gist.github.com/anggadarkprince/a7c536da091f4b26bb4abf2f92926594
+
+group chat simple
+========================
+1)http://www.androidhive.info/2014/10/android-building-group-chat-app-using-sockets-part-2/
+
+sms gatway example
+============================
+1)http://www.androidhive.info/2015/08/android-adding-sms-verification-like-whatsapp-part-1/
+
+recycler view like gmail
+========================
+1)http://www.androidhive.info/2017/02/android-creating-gmail-like-inbox-using-recyclerview/
+
+recycler view makoffer production
+=================================
+1)https://github.com/codepath/android_guides/wiki/Using-the-RecyclerView
+2)http://abhiandroid.com/materialdesign/recyclerview
+
+How to refresh a view in Android
+==============================
+1)https://stackoverflow.com/questions/29524628/how-to-refresh-a-view-in-android
+Restart your activity without animation.
+finish();
+startActivity(new Intent(this, MyActivity.class));
+overridePendingTransition(0, 0);
+
+menu list
+==============
+1)https://github.com/shehabic/Droppy
+
+file upload in base 64 -temp file creations-- dooth file download using..
+=====================================
+1)https://stackoverflow.com/questions/30005815/convert-encoded-base64-image-to-file-object-in-android
+2)https://stackoverflow.com/questions/14394122/convert-base64-image-data-to-an-image-file-png-and-save-it-to-local-file-syste     -this using dooth app
+3)https://stackoverflow.com/questions/42464264/how-to-delete-all-temp-files-which-created-by-createtempfile-when-exit-an-app-in/42464408
+4)https://www.codeproject.com/Questions/790895/Saving-encoded-image-string-as-image-jpg-on-sdcard
+temp file cache clear
+=======================
+1)https://stackoverflow.com/questions/42464264/how-to-delete-all-temp-files-which-created-by-createtempfile-when-exit-an-app-in/42464408
+
+file open from divice applications -imp for dooth app
+==================================
+1)http://www.androidsnippets.com/open-any-type-of-file-with-default-intent.html
+
+intent service  -using dooth download
+===============================
+1)http://stacktips.com/tutorials/android/creating-a-background-service-in-android
+
+react native 
+===============
+1)https://www.npmjs.com/package/react-native-fetch-blob
+2)http://facebook.github.io/react-native/docs/platform-specific-code.html#platform-specific-code
+3)https://www.raywenderlich.com/178012/react-native-tutorial-building-android-apps-javascript
+
+marshmellow permission file download and upload 
+======================
+1)https://stackoverflow.com/questions/42500865/android-app-cache-required-storage-permissions
+
+file save and internal and external 
+==================================
+1)http://codetheory.in/android-saving-files-on-internal-and-external-storage/
+
+android kit kat file webview-upload [solutions]
+===========================
+1)https://stackoverflow.com/questions/28246556/workaround-for-file-uploads-on-android-4-4-using-reflection
+
+how to get sha1 code in android studio:
+1)https://stackoverflow.com/questions/15727912/sha-1-fingerprint-of-keystore-certificate
+
+font
+===============
+1)https://futurestud.io/tutorials/custom-fonts-on-android-dynamic-font-selection-via-xml
+2)https://stackoverflow.com/questions/9327053/using-custom-font-in-android-textview-using-xml
+3)http://www.journaldev.com/13291/android-custom-fonts-tutorial
+4)http://blog.nkdroidsolutions.com/custom-font-in-android-xml-best-solution/
+
+custom text
+===========
+1)https://futurestud.io/tutorials/custom-fonts-on-android-dynamic-font-selection-via-xml
+2)https://github.com/chrisjenx/Calligraphy
+
+custom  style theme
+====================
+)https://stackoverflow.com/questions/16404820/how-to-set-default-font-family-for-entire-android-app
+
+radio button style
+================
+1)https://stackoverflow.com/questions/19163628/adding-custom-radio-buttons-in-android
+
+gcm-12-09-2017
+==========
+1)https://www.intertech.com/Blog/push-notifications-tutorial-for-android-using-google-cloud-messaging-gcm/
+link:-https://accounts.google.com/ServiceLogin/signinchooser?passive=true&continue=https%3A%2F%2Fdevelopers.google.com%2Fmobile%2Fadd%3Fplatform%3Dandroid%26cnturl%3Dhttps%253A%252F%252Fdevelopers.google.com%252Fcloud-messaging%252Fandroid%252Fclient%26cntapi%3Dgcm%26refresh%3D1%26cntlbl%3DContinue%2BAdding%2BGCM%2BSupport&service=ahsid&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+
+auto complete with tag like mail to,cc,bcc list etc..
+===========================================
+1)https://github.com/kpbird/chips-edittext-library/blob/master/ChipsEditTextDemo/res/values/strings.xml
+
+android auto detect keybord as shown or not-Responding to keyboard visibility
+======================
+1)https://pspdfkit.com/blog/2016/keyboard-handling-on-android/
+
+tag, gmail list,
+===============
+https://github.com/pchmn/MaterialChipsInput
+
+mariage -animated textview-localisation
+============
+1)https://github.com/Yasic/ParticleTextView
+2)https://github.com/CoderGuoy/Coder
+3)https://www.oneskyapp.com/academy/android-app-localization-tutorial-basics/
+bell, notification count on titlebar
+========================
+1)https://github.com/RowlandOti/CartCounter?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=6279
+2)https://github.com/tarek360/RichPath/?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5967
+animation
+-------------
+1)https://github.com/airbnb/lottie-android?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=6147
+
+awesome search bar
+===================
+1)https://github.com/Yalantis/JellyToolbar?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5733
+
+for ubci home header 
+=================
+1)https://github.com/florent37/ExpectAnim/?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5335
+
+fab button scrolling animation
+=============================
+1)https://github.com/marcoscgdev/FABScrollAnimations?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=3367
+
+android riple effect
+==================
+1)https://github.com/poldz123/ShapeRipple?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5819
+2)https://github.com/shu223/PulsingHalo
+
+slider animation
+===================
+1)https://github.com/yarolegovich/SlidingRootNav
+
+android stylish startactivity
+========================
+1)https://github.com/liuguangqiang/RippleLayout?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=4647
+
+android drawer menu icons
+================
+1)https://github.com/ChrisRenke/DrawerArrowDrawable
+2)https://github.com/balysv/material-menu
+
+slide left to right, down to up slider dialog
+========================
+1)https://github.com/mancj/SlideUp-Android?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=4929
+2)https://github.com/shiburagi/Drawer-Behavior?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=6239
+3)https://github.com/nganthony/MiniNavigationDrawer?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=4337
+ps server error
+========================
+1)response from ps 7 :{"message":"User Authentication Failed","status":"error"}
+
+
+24-05-2017 camera upload
+====================
+1)http://androidlift.info/2016/01/07/android-camera-image-capturing-and-uploading-to-php-server/
+2)https://androidjson.com/capture-image-camera-upload-server/
+3)https://www.androidhive.info/2014/12/android-uploading-camera-image-video-to-server-with-progress-bar/
+4)https://www.android-examples.com/android-image-cropping-example-tutorial-pick-gallery-camera/
+5)https://www.android-examples.com/pick-image-from-gallery-in-android-programmatically/
+)https://stackoverflow.com/questions/9107900/how-to-upload-image-from-gallery-in-android
+
+android volley multple and single file upload-multipart -imp
+======================================
+1)https://www.android-examples.com/android-image-cropping-example-tutorial-pick-gallery-camera/
+
+popupwindow like ubci
+==============
+1)https://github.com/oliguo/android-PopupWindow
+
+product based expended view-amazon,flipkart etc.. product view
+===========================
+1)https://github.com/sivailango/ExpandableListView-RecylerChildItems?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=4468
+
+swipe view 
+==============
+1)https://github.com/ugurcany/InfiniteListView?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=3631
+
+button text etc.. style bootstrap
+=======================
+1)https://github.com/Bearded-Hen/Android-Bootstrap/blob/master/images/bootstrap_button.png
+2)https://github.com/Bearded-Hen/Android-Bootstrap
+
+custome awesome textview for ubci development
+===============================================
+1)https://stackoverflow.com/questions/37959751/how-to-use-font-awesome-icon-in-android-application
+2)http://fontawesome.io/cheatsheet/
+awsome library
+==============
+1)https://github.com/wasabeef/awesome-android-ui
+
+
+font awsome
+============
+1)http://fontawesome.io/
+
+ubci -live scroll view like 
+===========================
+1)https://github.com/nganthony/MiniNavigationDrawer?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=4337
+
+popup like chooser
+================
+1_)http://www.londatiga.net/it/how-to-create-quickaction-dialog-in-android/
+2)https://stackoverflow.com/questions/21031488/android-popupwindow-with-tooltip-arrow
+3)https://github.com/michaelye/EasyDialog
+
+alert  quit
+================
+1)https://github.com/Codigami/CFAlertDialog?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=6252
+2)https://github.com/blennerSilva/AwesomeDialog?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=6109
+
+gmail inbox ui -Android Creating Gmail Like Inbox using RecyclerView
+==================
+1)https://www.androidhive.info/2017/02/android-creating-gmail-like-inbox-using-recyclerview/
+
+image editor. c# its change to java
+=============
+1)https://www.codeproject.com/Articles/33838/Image-Processing-using-C
+
+android new arrival
+====================
+1)language-kotlin
+2)os-fuchsia
+https://developer.android.com/kotlin/index.html
+https://en.wikipedia.org/wiki/Google_Fuchsia
+
+sweat alert confirmation
+========================
+1)https://stackoverflow.com/questions/42454609/remove-ok-button-from-sweet-alert-dialog-android
+
+android tree view with header - like ubci intermediate page
+==========================================================
+1)https://github.com/emilsjolander/StickyListHeaders
+
+material shadow
+==================
+1)https://github.com/harjot-oberai/MaterialShadows
+
+upi
+==============
+1)https://secure.payu.in/_payment_options?mihpayid=1ac0ed6ca623a3e4d412535c126688b341dfd0da232a3fdb092b7a193e567869
+
+search animation
+==========================
+1)https://github.com/kongnanlive/SearchMenuAnim
+
+honor 7x
+==============
+1)https://www.amazon.in/www.amazon.in/b?ie=UTF8&node=14309972031&tag=gdncontextualnotifymehonor7x-21
+
+android webview complete functions (javascript call,javascript alert etc..)
+=====================================
+1)http://tutorials.jenkov.com/android/android-web-apps-using-android-webview.html
+
+gold and silver rate api
+==========================
+https://github.com/bhattumang7/gold-silver-share-price-api-india
+
+all permission granted in marshmallow 
+==============================
+1)https://github.com/tajchert/Nammu
+
+google map
+===========
+1)https://androidclarified.wordpress.com/2017/08/18/google-maps-android-integration-polylines-markers-polygon-camera-circle/
+2)https://androidclarified.wordpress.com/2017/08/18/google-maps-android-integration-polylines-markers-polygon-camera-circle/
+
+drawable
+==================
+1)https://guides.codepath.com/android/drawables
+
+android listview and recycler view fetch data while scrolling
+============================
+1)https://github.com/codepath/android_guides/wiki/Endless-Scrolling-with-AdapterViews-and-RecyclerView
+2)https://gist.github.com/nesquena/d09dc68ff07e845cc622
+
+jwellery app [gold api]
+==============
+1)https://currencylayer.com/
+
+logger
+===============
+1)https://github.com/googlesamples/android-PermissionRequest/tree/master/Application/src/main/java/com/example/android/common
+
+/*  LogWrapper logWrapper = new LogWrapper();
+        Log.setLogNode(logWrapper);
+
+        Log.i(TAG, "Ready");
+*/
+
+
+alarm 
+================
+1)https://android.googlesource.com/platform/development/+/bf1e262/samples/Alarm/src/com/example/android/newalarm
+
+twilio call
+================
+1)https://github.com/twilio/voice-quickstart-android/tree/d7d4f0658e145eb94ab8f5e34f6fd17314e7ab17
+2)https://www.twilio.com/console/voice/runtime/api-keys/create
+3)https://www.twilio.com/console
+4)https://www.twilio.com/docs/api/voice/call
+
+call audio video chat (sinch)
+===================
+1)https://www.sinch.com/tutorials/android-app-to-app-voip-tutorial/
+
+firebase chat application like whatsapp
+========================
+1)https://code.tutsplus.com/tutorials/how-to-create-an-android-chat-app-using-firebase--cms-27397
+2)https://github.com/ansh94/KotlinMessenger
+3)https://github.com/Shahar2k5/whatsappClone
+
+chat app
+=============
+1)https://tokbox.com/developer/tutorials/android/basic-video-chat/
+
+screnn share
+==============
+1)https://www.html5rocks.com/en/tutorials/streaming/screenshare/
+
+white board in android
+=====================
+1)https://github.com/sumitgouthaman/NDNWhiteboard
+2)https://stackoverflow.com/questions/6845682/real-time-collaborative-drawing-whiteboard-in-html5-js-and-websockets
+3)https://github.com/lovasoa/whitebophir
+4)https://github.com/wesbos/websocket-canvas-draw
+5)https://github.com/muaz-khan/Canvas-Designer
+6)https://github.com/named-data-mobile/apps-NDN-Whiteboard
+
+permission 
+=============
+1)https://github.com/googlesamples/easypermissions
+
+
+git
+============
+http://staging.dooth.com:81/users/sign_in
+Username:mfaisal@dooth.com
+password:Welcome@123
+
+
+video chat project -succes code
+=====================
+1)https://developer.vidyo.io/dashboard#tab_usage
+username:test.dooth@gmail.com
+password:fAISALABC1
+2)https://developer.vidyo.io/documentation/4-1-20-3/getting-started
+
+xmpp chat example for using dooth chat
+========================================
+1)https://quickblox.com/developers/QuickBlox_Developers
+2)https://quickblox.com/developers/Chat
+3)https://quickblox.com/developers/Sample-webrtc-android
+a)https://github.com/chat-sdk/chat-sdk-android
+
+
+simple xmpp chat server -android
+======================
+1)http://www.blikoontech.com/tutorials/android-smack-xmpp-introductionbuilding-a-simple-client
+
+android image editing filtering sample project
+==============================
+1)https://www.androidhive.info/2017/11/android-building-image-filters-like-instagram/
+
+silent mode
+==============
+1)https://stackoverflow.com/questions/7089313/android-listen-for-incoming-sms-messages
+3)http://swarajsaaj.github.io/posts/reading-sms-automatically-otp-verification-android
+4)https://davanum.wordpress.com/2007/12/15/android-listen-for-incoming-sms-messages/
+2)http://www.coderzheaven.com/2011/07/19/how-to-set-your-android-phone-in-silent-mode-or-vibrate-mode-or-normal-mode-programatically/
+
+universal media picker (file chooser- files,cam,video etc..)
+===================
+1)https://android-arsenal.com/details/1/6862
+
+youtub
+==============
+1)https://android-arsenal.com/details/1/6858
+
+slider image view (slide)
+======================
+1)https://android-arsenal.com/details/1/6882
+
+shpping cart 
+=============
+1)https://github.com/Ramotion/garland-view-android
+
+A fast, light-weight and powerful Play Store information fetcher for Android.RxMagneto
+======================
+1)https://github.com/aritraroy/RxMagneto
+
+onBoarding
+============
+1)https://github.com/codemybrainsout/ahoy-onboarding
+2)https://github.com/Ramotion/paper-onboarding-android
+3)https://github.com/jaisonfdo/Onboarding
+
+react native push notification
+==================
+1)https://github.com/leolin310148/react-native-push-notification
+
+how to get current fragment from viewpager (tab selected fragment)
+==============================
+android.support.v4.app.Fragment page = getSupportFragmentManager().findFragmentByTag("android:switcher:" + R.id.viewpager + ":" + viewPager.getCurrentItem());
+PeopleListFragment fragmet= (PeopleListFragment) page;
+
+notification
+==================
+1)https://github.com/codepath/android-services-demo
+
+awesome bar
+=====================
+1)https://github.com/florent37/AwesomeBar
+
+react native chat
+=====================
+1)https://github.com/aksonov/react-native-xmpp
+
+android chat app simple work
+==============================
+1)https://github.com/atomarea/FlowX
+2)https://github.com/axcl/SMACK-API-Android-Demo
+3)https://www.aurigait.com/blog/Instant-Messaging-in-Android-using-XMPP-Openfire
+4)https://kpblogs.com/mobile-development/android/android-chat-application-using-openfire-server-and-xmpp-smack-client/
+5)http://www.tutorialsface.com/2015/08/building-your-own-android-chat-messenger-app-similar-to-whatsapp-using-xmpp-smack-4-1-api-from-scratch-part-2/
+6)http://www.java2s.com/Open-Source/Android_Free_Code/Chat_Video/List_of_Free_code_Chat_Video.htm
+chat app ios android web
+========================
+1)https://github.com/chat-sdk/chat-sdk-android
+
+multi user group chat
+====================
+1)http://androidbydavid.blogspot.in/2013/07/multiuserchat-with-xmpp-android-tutorial.html
+
+react native chat app
+======================
+1)https://github.com/FaridSafi/react-native-gifted-chat
+react js ui kit
+=================
+1)https://www.primefaces.org/primereact/#/slidemenu
+
+whatsapp intgration
+=============
+1)https://faq.whatsapp.com/en/android/28000012
+
+libraries a class - gps tracker, internet
+===================
+1)https://github.com/phalcondroid/spapp_android/tree/master/app/src/main/java/Libraries
+
+file uploader for dooth
+==============
+1)https://github.com/akrajilwar/Android-Image-Upload
+
+android download file from server -post params,header,url
+=============================
+1)https://github.com/georgiecasey/android-volley-inputstream-as-response/blob/master/src/com/georgiecasey/inputstreamresponseexampleusage/ExampleUsage.java
+2)https://mobikul.com/downloading-files-using-volley/
+
+for mariage
+=============
+1)https://github.com/Shashank02051997/FancyGifDialog-Android
+
+meterial icon
+===============
+1)https://icons8.com/icon/set/file/material
+
+android bottomsheet [like file chooser, picker share etc..]
+====================
+1)https://github.com/soarcn/BottomSheet
+2)https://stackoverflow.com/questions/26721403/android-how-to-implement-bottom-sheet-from-material-design-docs
+3)https://github.com/jaisonfdo/BottomSheetExample
+4)https://medium.com/glucosio-project/moving-from-dialogs-to-bottomsheetdialogs-on-android-15fb8d140295
+5)http://android-er.blogspot.com/2016/06/bottomsheetdialog-example.html
+
+chat shape
+=======
+1)https://android.jlelse.eu/android-shape-drawables-tutorial-17fbece6fef5
+
+android chat free conmplete api for external server
+=====================
+1)https://quickblox.com/developers/Android
+
+chat smack last users intraction in presences
+=========================
+1)https://issues.igniterealtime.org/projects/SMACK/issues/SMACK-636?filter=allopenissues
+
+android websocket and file upload with socket-- async task --android async download upload with progress
+==========================
+1)https://github.com/koush/android-websockets
+2)https://github.com/koush/AndroidAsync
+3)https://github.com/koush/ion
+
+circular reveal
+===============================
+1)https://stackoverflow.com/questions/41933605/material-design-add-circular-reveal-animation-while-switching-between-toolbars
+2)http://anjithsasindran.in/blog/2015/08/15/material-sharing-card/
+
+butterknife injecter -imp
+===================
+1)https://github.com/avast/android-butterknife-zelezny
+
+EEE MMM dd HHss zzzz yyyy
+
+circle menu style
+====================
+1:https://github.com/Ramotion/circle-menu-android
+
+lineage official download
+=================
+1)https://www.cyanogenmods.org/official-lineageos-15-1-download-supported-devices-list-oreo-8-1/
+
+
+object list filtering from adapter class
+=====================
+1)https://gist.github.com/tobiasschuerg/3554252
+
+How to access your broken phone from pc ,Recover files from a broken Phone
+=======================
+1)https://www.youtube.com/watch?v=8j0N9bndQUE
+
+android timezone
+================
+1)http://www.theappguruz.com/blog/android-time-zone-demo
+
+voip calling sip
+================
+1)https://android.googlesource.com/platform/development/+/master/samples/SipDemo/
+
+check is running custom service it will call after each 5 seconds
+===================
+1:https://androidexample.com/Check_Current_Running_Activity_%7C_Task_%7C_Application_-_Android_Example/index.php?view=article_discription&aid=111
+
+android zip programatically
+===============
+1)http://www.java2s.com/Code/Android/Development/Zip.htm
+
+android service [tracker system] 
+===============
+1:-http://www.java2s.com/Code/Android/Network/TrackerService.htm
+
+map service
+==============
+1:-http://www.java2s.com/Code/Android/Network/MapService.htm
+
+ @Override
+    protected void onDestroy() {
+        Thread.setDefaultUncaughtExceptionHandler(null);
+ 
+
+        super.onDestroy();
+
+    }
+
+how to show alert dialog on top of any activity in an application android
+================================================
+1:https://stackoverflow.com/questions/37483232/how-to-show-alert-dialog-on-top-of-any-activity-in-an-application-android
+
+buble notification - permision
+==============
+1:https://stackoverflow.com/questions/46329397/when-using-floating-bubble-as-a-background-service-to-take-a-screenshot-of-live?rq=1
+
+permission
+==================
+1":https://stackoverflow.com/questions/39182524/android-chathead-crashing-on-start-no-permission
+
+apk analyzer
+===================
+https://developer.android.com/studio/build/apk-analyzer
+
+java core for interview
+===========================
+1:https://javarevisited.blogspot.com/2011/04/synchronization-in-java-synchronized.html
+
+android google testing 
+========================
+1:https://developer.android.com/studio/test/
+
+easy permission
+=================
+1:https://github.com/DroidNinja/Android-FilePicker/blob/master/app/src/main/java/vi/filepicker/MainActivity.java
+
+gmail background
+=====================
+1:https://github.com/luongvo/GmailBackground
+
+sqlite cipher
+====================
+1:https://github.com/sqlcipher/android-database-sqlcipher
+2:https://sunny89blog.wordpress.com/2017/05/14/securing-android-sqlite-db-with-sqlcipher-and-jni/
+3:https://www.zetetic.net/sqlcipher/
+4:https://www.zetetic.net/sqlcipher/sqlcipher-for-android/
+
+android databinding
+================
+baseAdapter class[for list]
+===============
+@Override
+    public View getView(final int position, View convertView, ViewGroup parent) {
+LayoutInflater inflater = (LayoutInflater) mContext.getSystemService(Context.LAYOUT_INFLATER_SERVICE );
+        binding= DataBindingUtil.inflate(inflater, R.layout.file_list_item, parent, false);
+return binding.getRoot();
+    }
+
+fragment class
+===============
+ @Override
+    public View onCreateView(LayoutInflater inflater, ViewGroup container,
+                             Bundle savedInstanceState) {
+        this.binding = DataBindingUtil.inflate(inflater, R.layout.fragment_my_file, container, false);
+        return   this.binding.getRoot();
+    }
+
+adapter in RecyclerView.Adapter
+=================
+ @Override
+    public ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
+    
+        FileUrlInfoItemBinding binding = DataBindingUtil.inflate(
+                LayoutInflater.from(parent.getContext()),
+                R.layout.file_url_info_item, parent, false);
+
+        ViewHolder viewHolder = new ViewHolder(binding);
+        return viewHolder;
+    }
+
+public static String CODE_ID="id",CODE="code",DISPLAY_TEXT="displayText";
+
+file upload with prograssbar ui in github library
+===================================
+1:https://github.com/gotev/android-upload-service
+2:https://github.com/gotev/android-upload-service/wiki/Recipes
+3:http://sachinverma.co.in/upload-multiple-images-to-server-using-volley-android/
+
+file upload custom picker for dooth
+=================================
+1:https://github.com/jaiselrahman/FilePicker
+
+event bus 
+===================
+1:https://github.com/greenrobot/EventBus
+2:https://tutorialwing.com/android-eventbus-library-example/
+
+order picking track
+==================
+1:https://android-arsenal.com/details/1/7005
+2:https://android-arsenal.com/details/1/6448
+
+file upload
+=============
+1:https://androstock.com/tutorials/create-a-file-uploader-with-progress-in-android-android-studio.html
+
+2:https://github.com/gotev/android-upload-service/wiki/Recipes#http-binary-upload-
+
+3:https://github.com/amitshekhariitbhu/Fast-Android-Networking
+4:https://github.com/MindorksOpenSource/PRDownloader
+
+whatsapp help
+==============
+1:https://www.androidcentral.com/how-place-calls-whatsapp-android
+
+photo editor
+===============
+1:https://github.com/utsavoza/photo-editor
+2:https://github.com/zhaozeyx/ImageEditor-android
+3:https://github.com/DroidNinja/Whatsapp-Like-PhotoEditor
+
+file picker window fordooth file
+=========== 
+1:https://github.com/kingfisherphuoc/EasyFilePickerDialog?utm_source=android-arsenal.com&utm_medium=referral&utm_campaign=5810
+
+fcm
+=====================
+1:https://github.com/hieuapp/android-firebase-chat
+2:https://play.google.com/store/apps/details?id=com.halotalk.app&hl=en
+3:https://github.com/crazyhitty/firebase-chat
+
+how to call fragment method from another fragment class
+=============================
+1:
+FragmentManager fm = getActivity().getSupportFragmentManager();
+        GroupAdminsListFragment adminsListFragment=(GroupAdminsListFragment)fm.getFragments().get(0);
+        adminsListFragment.refreshCurrentWindow();
+2: GroupAdminsListFragment fragment= (GroupAdminsListFragment) getActivity().getSupportFragmentManager().getFragments().get(1);
+        fragment.refreshCurrentWindow();
+
+sms read 
+==========
+1:https://github.com/stfalcon-studio/SmsVerifyCatcher
+
+Bug 11194 - Implement SMS Retriever API for OTM retrieving and Phone number identification
+
+android bottom sheet
+=================
+1:https://inducesmile.com/android/how-to-implement-android-bottom-sheet-material-design/
+
+music player
+=============
+1:https://github.com/naman14/Timber
+2:https://github.com/RajneeshSingh007/MusicX-music-player
+3:https://github.com/iampawan/Flutter-Music-Player
+4:https://github.com/marverenic/Jockey
+5:https://github.com/harjot-oberai/MusicDNA
+6:https://play.google.com/store/apps/details?id=com.simplemobiletools.musicplayer
+7:https://github.com/enricocid/Music-Player-GO
+8:https://github.com/anyaudio/anyaudio-android-app
+9:https://github.com/ryanhoo/StylishMusicPlayer
+
+
+How to set tint for an image view programmatically in android?-for vector images
+==================================================
+1:https://stackoverflow.com/questions/20121938/how-to-set-tint-for-an-image-view-programmatically-in-android
+
+drawing board
+=============
+1:https://github.com/googlearchive/AndroidDrawing
+2:https://github.com/martinbaciga/android-drawing-canvas
+3:https://github.com/martinbaciga/android-drawing-canvas
+
+webrtc experiment
+===============
+1:https://github.com/muaz-khan/WebRTC-Experiment
+
+android mail library free open source
+=====================================
+1:faire mail
+===
+https://email.faircode.eu/
+github:https://github.com/M66B/open-source-email
+license:https://github.com/M66B/open-source-email/blob/master/LICENSE
+play store:https://play.google.com/store/apps/details?id=eu.faircode.email&ah=ko9mfvaeRKhc3E_7gsLzqIJtf0M
+5:https://www.androidhive.info/2017/02/android-creating-gmail-like-inbox-using-recyclerview/
+2:inbox pager
+===
+1:https://github.com/itprojects/InboxPager
+mail ui
+=======
+1:https://github.com/florent37/AwesomeBar
+
+aqamail
+==========
+1:https://github.com/pylerSM/AquaMailUpdater
+2:https://gist.github.com/kmansoft/f4de66b422de7e93655d
+
+
+calendar with event costomization in android [for dooth]
+================
+1:https://github.com/SimpleMobileTools/Simple-Calendar
+2:https://github.com/memfis19/Cadar
+3:https://github.com/hidroh/calendar
+
+calendat view
+================
+1:https://github.com/Applandeo/Material-Calendar-View
+2:https://github.com/nehakadam/CalenStyle
+3:https://github.com/tizisdeepan/eventscalendar
+4:https://github.com/mahimrocky/EventCalender
+
+event 
+============
+1:https://github.com/PayalUmraliya/HorizontalTimesLayout
+
+android contacts
+===============
+1:https://github.com/SimpleMobileTools/Simple-Contacts
+
+app louncher
+===========
+1:https://github.com/SimpleMobileTools/Simple-App-Launcher
+
+calculator
+==========
+1:https://github.com/SimpleMobileTools/Simple-Calculator
+
+file manager
+==========
+1:https://github.com/SimpleMobileTools/Simple-File-Manager
+
+simple draw
+==========
+1:https://github.com/SimpleMobileTools/Simple-Draw
+
+
+how to connect divece with wifi
+====================
+1:https://futurestud.io/tutorials/how-to-debug-your-android-app-over-wifi-without-root
+2:https://stackoverflow.com/questions/4893953/run-install-debug-android-applications-over-wi-fi
+>>adb devices
+>>goto platform-tools path
+<E:\Android\sdk\platform-tools>
+>>adb tcpip 5555
+>>Set ANDROID_PLATFORM_TOOLS ="E:\Android\sdk\platform-tools"
+>>Disconnect your device (remove the USB cable).
+>>Go to the Settings -> About phone -> Status to view the IP address of your phone
+>>adb connect 192.168.0.89:5555
+>>mobile >> settings >> developer option >> Adb over network >checked >>adb connect <DEVICE_IP_ADDRESS>:5555
+disconnect >> adb -s 192.168.0.89:5555 usb
+error
+=========
+>>if you get 'adb' is not recognized as an internal or external command, operable program or batch file. error mesage then set home path 
+>>Set ANDROID_PLATFORM_TOOLS ="E:\Android\sdk\platform-tools".
+
+Android  sqlite database github library -powerfull 
+==========================
+1:greenDAO: Android ORM for your SQLite database
+2:http://greenrobot.org/greendao/documentation/how-to-get-started/
+3:http://greenrobot.org/greendao/documentation/introduction/
+4:https://objectbox.io/
+
+
+web 2 pdf
+============
+1:https://fossdroid.com/a/web2pdf.html
+
+simple note
+============
+1:https://fossdroid.com/a/simple-notes-pro.html
+
+Turn the display on by waving -[open source]
+===========================
+1:https://gitlab.com/juanitobananas/wave-up/tree/HEAD
+
+lock screen
+==============
+1:https://github.com/seguri/lock
+
+apk extracter open source
+======================
+1:https://github.com/axxapy/apkExtractor
+
+internet radio
+==================
+1:https://notabug.org/zplus/InternetRadio
+
+movie app opensource
+===========
+1:https://fossdroid.com/a/movie-db.html
+
+tracking transport -gps tracking
+===============
+1:https://fossdroid.com/a/public-transport-timisoara.html
+
+open source
+=================
+1:https://fossdroid.com/c/connectivity/
+2:http://www.java2s.com/Open-Source/Android_Free_Code/UI/index.htm
+
+Applocker open source
+=================
+1:https://github.com/SubhamTyagi/AppLock
+
+drawing
+1: https://fossdroid.com/a/quick-draw-everywhere.html
+
+image resizer reducer
+=========================
+1:https://github.com/arpruss/sendreduced
+
+Blacklist Call & SMS Blocker
+===========================
+1:https://github.com/kaliturin/BlackList
+2:https://fossdroid.com/a/blacklist-blocker.html
+
+sms scheduler
+==========
+1:https://github.com/yeriomin/SmsScheduler
+2:https://fossdroid.com/a/sms-scheduler.html
+
+voip
+===========
+1:https://fossdroid.com/a/linphone.html
+
+sms secure  app like chat app
+==================
+1:https://github.com/SilenceIM/Silence
+
+Collapsing Toolbar in my layout?
+========================
+1:https://stackoverflow.com/questions/48822188/how-to-do-i-add-collapsing-toolbar-in-my-layout
+
+volley clear cache 
+=================
+1:https://mobikul.com/managing-cache-in-android-application/
+
+malayalam tutorial
+=================
+1:http://akshayamalayalam.blogspot.com/search/label/Simulate%20Water%20Reflection
+
+android shape view awesome
+=======================
+1:https://github.com/florent37/ShapeOfView
+
+easy bookmark opensource
+=======================
+1:https://github.com/mmazzarolo/easy-bookmarks
+
+focus on any component -- its using tour page for dooth
+================================
+1:https://github.com/faruktoptas/FancyShowCaseView
+2:https://github.com/KeepSafe/TapTargetView
+3:https://github.com/Cleveroad/SlidingTutorial-Android
+
+slim adapter
+================
+1:https://github.com/MEiDIK/SlimAdapter
+
+java.util.concurrentmodificationexception – How to handle Concurrent Modification Exception [how to remove object from current array list while looping]
+======================================
+1:https://examples.javacodegeeks.com/java-basics/exceptions/java-util-concurrentmodificationexception-how-to-handle-concurrent-modification-exception/
+
+firebase chat app
+=====================
+1:https://github.com/AleBarreto/FirebaseAndroidChat
+
+refresh list view awesome
+======================
+1:https://github.com/race604/FlyRefresh
+
+android opensource
+===================
+1:https://github.com/Trinea/android-open-project
+
+collapseview coordinatorlayout
+=========================
+1:http://www.devexchanges.info/2016/03/android-tip-custom-coordinatorlayout.html
+
+time stamp convert to current time
+===================
+1:https://stackoverflow.com/questions/14853389/how-to-convert-utc-timestamp-to-device-local-time-in-android
+2:https://www.journaldev.com/17899/java-simpledateformat-java-date-format
+
+android socket chat
+============
+1:https://www.androidhive.info/2014/10/android-building-group-chat-app-using-sockets-part-1/
+
+call end connect disconnect ui
+=====================
+1:https://android-arsenal.com/details/1/7465
+2:https://android-arsenal.com/details/1/6517
+
+animation
+=============
+1:https://stackoverflow.com/questions/22454839/android-adding-simple-animations-while-setvisibilityview-gone
+
+passcode
+===========
+1:https://android-arsenal.com/details/1/5596
+
+quran code
+==============
+1:https://github.com/quran/quran_android
+
+
+WebView autofill is disabled because WebView isn't created with activity context
+===========================
+1:https://stackoverflow.com/questions/18865035/android-using-webview-outside-an-activity-context/25444656
+2:https://stackoverflow.com/questions/27326781/is-it-possible-to-change-the-context-of-a-webview-after-it-has-been-instantiated
+3:https://stackoverflow.com/questions/18865035/android-using-webview-outside-an-activity-context/18999100
+4:https://stackoverflow.com/questions/47774536/webview-isnt-opening-select-html-components-dropdown-when-initiating-it-with
+
+flavour
+==========
+1:https://www.journaldev.com/21533/android-build-types-product-flavors
+
+screen recorder- full app
+=============
+1:https://androstock.com/tutorials/create-screen-recorder-app-android-android-studio.html
+
+Android Speech to Text Converter – Android Studio
+=================
+1:https://androstock.com/tutorials/android-speech-to-text-converter-android-studio.html
+
+doawnlaod with progress
+===================
+1:https://www.dev2qa.com/how-to-create-a-download-manager-in-android/
+2:https://medium.com/mindorks/android-top-file-downloader-libraries-549136e48d84
+3:https://mindorks.com/android/store/Download-Managers/mindorksopensource/prdownloader
+
+file share pc to phone
+====================
+1:https://fossdroid.com/a/zorin-connect.html
+
+upload with progress
+=====================
+1:https://github.com/gotev/android-upload-service
+
+notification icon generator
+===========================
+1:https://jgilfelt.github.io/AndroidAssetStudio/icons-notification.html#source.type=image&source.space.trim=1&source.space.pad=0&name=ic_stat_up_5
+
+autocabs app
+============
+1:https://github.com/maddevsio/openfreecabs
+
+map service
+============
+1:http://www.java2s.com/Code/Android/Network/MapService.htm
+
+======================
+public class Singleton {
+    private Singleton() {}
+
+    private static class SingletonHolder {
+        private static final Singleton INSTANCE = new Singleton();
+    }
+
+    public static Singleton getInstance() {
+        return SingletonHolder.INSTANCE;
+    }
+}
+=============================
+design patern
+==============
+1:https://sourcemaking.com/design_patterns
+2:https://sourcemaking.com/design_patterns/singleton/java/1
+
+lockscreen
+=============
+1:http://www.devexchanges.info/2017/02/create-lock-screen-inside-android.html
+
+change the versions for file core
+================
+1:https://github.com/jshvarts/NotesNavigation/blob/master/app/build.gradle
+
+mail open source-faire code
+=============
+1:https://email.faircode.eu/
+2:https://play.google.com/store/apps/details?id=eu.faircode.email&hl=en
+3:license
+https://github.com/M66B/open-source-email/blob/master/LICENSE
+code:https://github.com/M66B/open-source-email
+suport:https://github.com/M66B/open-source-email/blob/master/FAQ.md
+
+opensource chat
+=================
+1:https://techlog360.com/open-source-messenger-voip-android-apps/
+
+firebase chat app
+===============
+1:https://android-arsenal.com/details/3/3812
+
+============================
+Syncing only active variant
+You can disable this experimental feature from File >>Settings>> Experimental>> Gradle>>Only sync the active variant
+===================
+
+custom launcher
+===========
+1:https://arnab.ch/blog/2013/08/how-to-write-custom-launcher-app-in-android/
+
+android main thread
+================
+1:https://medium.com/martinomburajr/android-internals-1-how-android-starts-your-main-activity-8fcf80e65222
+2:https://android.googlesource.com/platform/frameworks/base/+/master/core/java/android/app/ActivityThread.java
+
+Adjust RecyclerView item height programatically
+=======================
+1:https://viksaaskool.wordpress.com/2015/05/08/adjust-recyclerview-item-height-example/
+
+broadcast
+=======
+1:https://android.jlelse.eu/broadcast-receivers-for-beginners-a9d7aa03fb76
+
+databinding
+=============
+1:https://www.androidauthority.com/data-binding-in-android-709747/
+
+Application restart
+==================
+1:https://stackoverflow.com/questions/2681499/android-how-to-auto-restart-application-after-its-been-force-closed
+
+webrtc
+==========
+1:https://webrtc.org/native-code/android/
+2:https://github.com/webrtc/apprtc
+3:https://github.com/njovy/AppRTCDemo/tree/master/app/src/main
+
+
+media picker / document picker
+===============================
+1:https://github.com/Turtlebody/android-media-picker
+2:https://github.com/Turtlebody/android-doc-picker
+3:https://github.com/akshay2211/PixImagePicker
+
+image priview for story bord[dooth]
+=======================
+1:https://github.com/Turtlebody/android-image-preview
+2:https://github.com/akshay2211/PixImagePicker
+3:https://github.com/RahulJanagouda/StatusStories
+4:https://github.com/3llomi/CircularStatusView
+5:https://github.com/DroidNinja/Whatsapp-Like-PhotoEditor
+6:https://github.com/shts/StoriesProgressView
+7:https://github.com/akshay2211/PixImagePicker
+8:https://github.com/naseemakhtar994/StoriesProgressView
+9:https://github.com/bxute/StoryView
+
+
+like whatsaap
+============
+https://github.com/topics/whatsapp
+
+1:record view
+https://github.com/3llomi/RecordView
+2:whatsapp ui viewpager
+https://github.com/jaisonfdo/WhatsAppViewPager
+3:photo editor
+https://github.com/DroidNinja/Whatsapp-Like-PhotoEditor
+4:video trimmer
+https://github.com/deepandroid/video-trimmer
+5:https://github.com/usman18/WhatsappUI-Android
+
+patern background like whatsapp background
+====================================
+1:https://www.toptal.com/designers/subtlepatterns/
+
+
+android chat app server with code like signal
+=========================================
+1:https://github.com/tinode/chat/
+2:https://github.com/tinode/tindroid
+3:https://github.com/tinode/ios
+4:https://hub.docker.com/u/tinode/
+
+android chat app same signal
+=========================
+1:https://github.com/deltachat/
+2:https://github.com/deltachat/deltachat-android
+
+image editor / background cutter
+==================
+1:https://github.com/GabrielBB/Android-CutOut
+
+android chat buble text with time like whatsaap
+===================================
+1:https://github.com/SteveCampos/whatsapp-android/blob/master/app/src/main/java/in/co/madhur/chatbubblesdemo/ChatListAdapter.java
+
+chat app
+============
+1:https://github.com/wajahatkarim3/ChatHub
+
+mail providers
+==============
+1:https://gist.github.com/tbrianjones/5992856/
+
+openpgp passphress [issues solve k9 cipher]
+===============
+1:https://www.codota.com/web/assistant/code/rs/5c655dd122c5bc0001de8c80#L147
+2:https://www.codota.com/web/assistant/code/rs/5c76b8f449efcb0001532737#L60
+3:https://www.codota.com/code/java/packages/org.bouncycastle.openpgp.operator.jcajce
+
+android test tool
+================
+1:https://www.vogella.com/tutorials/Robolectric/article.html 
+[its using open keychain app]
+

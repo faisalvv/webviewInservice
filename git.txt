@@ -1,0 +1,120 @@
+git tutorial
+==========
+1:https://androidwave.com/git-setup-repository/
+
+
+
+
+
+git branches
+============
+1:File app restructure
+>>DAP_10687
+2:bug fix
+>>DAP_FILE_APP_10796_TO_10810
+
+
+git status
+git pull
+git add file name
+git commit - m 'messages'
+git push
+git checkout filename
+
+check file is existt or
+=====================
+git log filename
+
+git rm filename -remove git [dont use]
+
+doothNative
+=================
+git clone http://git.dooth.com:81/root/DoothHybridApp.git --branch DoothHybridAppdvlp --single-branch DoothHybridAppdvlp
+
+http://git.dooth.com:81/users/sign_in
+
+
+*********Android project*************
+=====================================
+http://git.dooth.com:81
+====================
+
+start a new bug with new branch
+======================
+1:goto git 
+2:goto project 
+3:create a merge request
+goto merge requests>>add new merge request >> source <develop> >> target <our branch eg:-DAP_10687> >>
+>>compare branch and continue>> submit merge request
+>>terminal git checkout branch. <git checkout -b <new branch>>
+eg:git checkout -b DAP_FILE_APP_10796_TO_10810
+4:restart project for see the changes
+
+======================
+git pull from develop
+===================
+>>goto git
+>>goto project
+>>goto merge requests>>add new merge request >> source <develop> >> target <our branch eg:-DAP_10687> >>
+>>compare branch and continue>> submit merge request
+>>git checkout development 
+
+git status
+===========
+>>git status
+
+>>git add files
+git commit
+==========
+>>git commit -m"Bug 10687 - File app - Restructuring and modularisation(bug number with bug name)"
+
+git push
+=======
+>>git push origin <branch>
+eg:-git push origin DAP_10687
+git merge request
+============
+Mergerequest >> new merge request >> source <our branch eg:DAP_10687> & target branch <develop>
+>>compare branch and continue>> submit merge request
+
+get current branch
+=================
+git branch -v
+
+git stash save current changes in remotly
+=============
+git stash save "messages"
+>>if you want pull then u can pull
+>>git stash list
+>>git stash apply <stash name>
+eg: git stash apply stash@{0}
+
+how to switch branch
+=============
+*git checkout DAP_FILE_APP_10796_TO_10810
+or 
+*git checkout develop
+
+how to work existing branch in new instance in local
+===========================
+check the current branch
+>>git branch
+1:git checkout <branchName>
+2:create merge reguest for develop changes
+>>create a merge request <src><develop> >> <taget><our branch>
+>>submit merge request
+>>git pull origin <branch name>
+
+====
+how to remove a added file [not commit and push] 
+
+>>git reset HEAD file_name
+
+==========================
+
+
+adb connect 192.168.0.3:5555
+
+
+
+
