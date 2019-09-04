@@ -1,0 +1,239 @@
+****************************************
+**********Install react native**********
+****************************************
+https://habiletechnologies.com/blog/getting-started-react-native-complete-setup-guide/
+
+1)download node js
+https://nodejs.org/en/download/
+https://facebook.github.io/react-native/docs/getting-started.html
+2)install node js
+3)open cmd and run
+4)instal npm
+npm install -g react-native-cli
+5)set project path
+e:
+cd reactProjects
+6)create a project using command.
+react-native init AwesomeProject
+7)npm install
+npm install
+8)
+cd AwesomeProject
+9)npm start
+npm start
+10)run another cmd
+11)set project path
+12)run server
+react-native bundle --platform android --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --dev false --reset-cache --assets-dest android/app/src/main/res/
+
+*********************************************
+********react native comments**********
+*********************************************
+========================
+1)react-native -v
+
+2)upgrade react native projects
+===================
+https://facebook.github.io/react-native/docs/upgrading.html
+
+3)upgrade npm(node)
+==================
+npm-windows-upgrade
+https://matthewhorne.me/how-to-update-npm-on-windows-10/
+
+4)clear build cache
+====================
+gradlew cleanBuildCache
+
+5cache clear in react native
+===========================
+npm start -- --reset-cache
+>> Remove haste cache: 
+rm -rf /tmp/haste-map-react-native-packager-*
+
+node release note
+================
+1)https://nodejs.org/en/download/releases/
+=====================
+
+*****************************************
+************Run the adb *****************
+*****************************************
+E:\Android\sdk\platform-tools
+adb reverse tcp:8081 tcp:8081
+
+****************************************
+**********Create a project**************
+****************************************
+==============
+1)set project path in to cmd via
+eg:cd:\e:\react
+2)react-native init projectName
+
+react-native run-android
+react-native link
+
+run the project
+set the project(inside the project)
+===============
+1)npm start or react-native start
+2)run the project from android studio
+*Run the project
+=============
+1)goes to project path
+2)start npm
+3)reflect the code change
+open the another cmd.
+react-native bundle --platform android --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --dev false --reset-cache --assets-dest android/app/src/main/res/
+4)run adb for run in to divices
+	a)open another cmd
+	b)go to sdk platform-tool path
+		>>cd E:\Android\sdk\platform-tools
+	eg:E:\Android\sdk\platform-tools
+	c)then type>> adb reverse tcp:8081 tcp:8081
+5)run project with android studio
+6)reload the device after change the code from react code.
+	a)shake the device
+	b)enable live reload
+or
+==============
+1)react-native bundle --platform android --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --dev false --reset-cache --assets-dest android/app/src/main/res/
+2)npm start
+3)run with android studio
+
+[emulator  --double tap 'R' on the emulator -and While the emulator is running, you can press control + m to open up the dev settings ]
+
+********************************************************
+******** package install in react native project *******
+********************************************************
+eg:npm install native-base --save
+react-native link
+
+package un install
+======================
+npm uninstall --save package_name
+   or
+npm uninstall --save-dev package_name
+
+
+*************************************************
+*********react native package clear cache********
+*************************************************
+del %appdata%\Temp\react-native-* & cd android & gradlew clean & cd .. & del node_modules/ & npm cache clean --force & npm install & npm start -- --reset-cache
+
+
+*****************************************
+******* git clone for react native ******
+*****************************************
+
+=========================
+http://git.dooth.com:81/users/sign_in
+1)git clone http://git.dooth.com:81/root/DoothHybridApp.git --branch DoothHybridAppdvlp --single-branch DoothHybridAppdvlp
+>>git pull
+>>git add Dooth\src\Components\Common\FloatingInputText.js
+>>git commit -m "Add the floating label for all textInput"
+
+========================================
+
+****************************************************
+*************** Bookmark ***************************
+****************************************************
+>>react native tutorial
+==========================
+1)https://www.tutorialspoint.com/react_native/react_native_text_input.htm
+>>react native animation
+===================
+1)https://github.com/oblador/react-native-animatable
+>>reat native awesome libraries
+===================
+1)https://github.com/jondot/awesome-react-native
+2)https://codingislove.com/top-15-react-native-libraries/
+3)https://react-native-training.github.io/react-native-elements/docs/button.html
+
+>>ui native base
+===================
+1)https://nativebase.io/
+2)https://nativebase.io/customizer/
+3)https://nativebase.io/docs/v0.3.0/components
+
+platform==="ios"?"#F8F8F8":"#3F51B5",
+
+how to create theme in react native
+=====================
+1)https://nativebase.io/docs/v0.4.6/customize
+>>ui
+==============
+1)https://shoutem.github.io/docs/extensions/my-first-extension/using-ui-toolkit
+2)https://builderx.io/
+3)https://reactstudio.com/
+
+questions
+===============
+https://stackoverflow.com/questions/tagged/native-base?sort=votes&pageSize=50
+
+>>project structure
+==================
+1)https://github.com/infinitered/ignite/blob/master/docs/quick-start/project-structure.md
+2)https://medium.com/@chenzhe142/manage-react-native-project-folder-structure-and-simplify-the-code-c98da77ef792
+3)http://airbnb.io/native-navigation/docs/guides/project-structure.html
+4)https://codeburst.io/linear-gradient-for-border-color-in-react-native-5bcab3eea1c9
+
+splash screen
+=================
+1)https://medium.com/handlebar-labs/how-to-add-a-splash-screen-to-a-react-native-app-ios-and-android-30a3cec835ae
+
+props and state
+===============
+1)https://inducesmile.com/facebook-react-native/react-native-props-example-tutorial/
+2)https://inducesmile.com/facebook-react-native/react-native-component-state-example-tutorial/
+
+flex using style
+================
+1)https://inducesmile.com/facebook-react-native/react-native-layout-example-tutorial/
+
+color prop
+============
+1)https://inducesmile.com/facebook-react-native/react-native-styling-examples/
+
+react native navigation
+========================
+1)https://reactnavigation.org/docs/en/navigating-without-navigation-prop.html
+
+all layout disgn
+=======================
+1)https://code.tutsplus.com/tutorials/get-started-with-layouts-in-react-native--cms-27418
+
+react native swiper
+=======================
+1)https://www.npmjs.com/package/react-native-page-swiper
+
+transition effect
+======================
+1)https://medium.com/react-native-motion/transition-challenge-9bc9fdef56c7
+
+navigation
+==============
+1)https://reactnativecode.com/declare-global-scope-variables/
+
+file picker
+===========
+1)https://github.com/react-community/react-native-image-picker
+
+react native rx java
+=====================
+1)https://github.com/ReactiveX/RxAndroid
+
+React Native Tip: Keyboard issues in ScrollView
+====================================
+1)https://medium.com/react-native-training/todays-react-native-tip-keyboard-issues-in-scrollview-8cfbeb92995b
+
+react native responsive
+========================
+1)https://medium.com/react-native-training/build-responsive-react-native-views-for-any-device-and-support-orientation-change-1c8beba5bc23
+
+flex tutorial
+==============
+1)http://flexboxfroggy.com/
+
+
+react-native-event-listeners
